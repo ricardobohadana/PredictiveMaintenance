@@ -1,6 +1,6 @@
 # Repositório Predictive Maintenance
-## Aplicação de Algoritmos de Machine Learning para Apoio a Manutenção Preditiva
-Esse repositório faz parte do trabalho de conclusão de curso <strong>"Aplicação de Algoritmos de Machine Learning para Apoio a Manutenção Preditiva"</strong> a ser apresentado como pré-requisito para conclusão do curso de graduação em engenharia elétrica na UFF.
+## Desenvolvimento de Solução Baseada em Machine Learning para Apoio a Manutenção Preditiva
+Esse repositório faz parte do trabalho de conclusão de curso <strong>"Desenvolvimento de Solução Baseada em Machine Learning para Apoio a Manutenção Preditiva"</strong> a ser apresentado como pré-requisito para conclusão do curso de graduação em engenharia elétrica na UFF.
 
 ## Proposta
 Construção de modelo computacional baseado no aprendizado de máquina capaz de apoiar a implementação de uma estratégia de manutenção preditiva, com o objetivo de alertar sobre iminência de falha ao engenheiro de manutenção responsável pela supervisão dos equipamentos.

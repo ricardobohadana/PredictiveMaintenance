@@ -8,15 +8,18 @@ Construção de modelo computacional baseado no aprendizado de máquina capaz de
 ## Dados 
 Os dados utilizados estão disponíveis no repositório (por enquanto), apesar de seu tamanho grande. Eles consistem em amostras horárias de variáveis de estado de 100 máquinas de diferentes idades, além de indicação se a mesma opera com erro ou se falhou na última hora/intervalo. 
 
+##
+Toda a solução foi desenvolvida em Python em sua versão 3.7.12
+
 ## Bibliotecas utilizadas:
 <ul>
-  <li>Numpy</li>
-  <li>Pandas</li>
-  <li>TensorFlow</li>
-  <li>Keras</li>
-  <li>Scikit-learn</li>
-  <li>Matplotlib</li>
-  <li>Seaborn</li>
+  <li>Numpy<i> == 1.19.5</i></li>
+  <li>Pandas<i> == 1.3.5</i></li>
+  <li>TensorFlow<i> == 2.7.0</i></li>
+  <li>Keras<i> == 1.3.5</i></li>
+  <li>Scikit-learn<i> == 1.8.0</i></li>
+  <li>Matplotlib<i> == 3.2.2</i></li>
+  <li>Seaborn<i> == 0.11.2</i></li>
 </ul>
 
 ## Arquitetura do modelo desenvolvido:

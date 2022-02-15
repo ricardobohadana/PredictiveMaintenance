@@ -27,7 +27,7 @@ A arquitetura foi escolhida com base em análises que estão melhor descritas e 
 O modelo desenvolvido é basicamente uma rede neural com uma camada escondida, já que, para o treinamento de 200 épocas, os modelos com duas camadas são equivalentes aos de camada única<br>
   Na primeira camada temos as 16 variáveis de entrada.<br>
   Na segunda camada (única camada escondida) temos 16 neurônios.<br>
-  Na quarte e última camada temos 1 neurônio de saída.<br>
+  Na terceira e última camada temos 1 neurônio de saída.<br>
 
 ## Arquivo principal:
 #### Último pipeline para replicar o desenvolvimento foi publicado às 12:59 do dia 02 de dezembro de 2021 sob o nome de pipeline_2.py.

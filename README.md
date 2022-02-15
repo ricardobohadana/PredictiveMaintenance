@@ -24,7 +24,7 @@ Toda a solução foi desenvolvida em Python em sua versão 3.7.12
 
 ## Arquitetura do modelo desenvolvido:
 A arquitetura foi escolhida com base em análises que estão melhor descritas e explicadas no Trabalho de Conclusão de Curso.
-O modelo desenvolvido é basicamente uma rede neural com uma camada escondida, já que, para o treinamento de 200 épocas, os modelos com duas camadas são equivalentes aos de camada única<br>
+O modelo desenvolvido é uma rede neural com uma camada escondida. Essa arquitetura foi definida a partir de testes utilzando técnicas de validação cruazada, seleção e avaliação de modelos, que estão descritos no documento <i>TCC_RICARDO_UFF_V5_FINAL_COMPLETO.pdf</i> e que comprovaram que, para este conjunto de dados e um treinamento de 200 épocas, modelos de uma ou duas camadas escondidas são equivalentes.<br>
   Na primeira camada temos as 16 variáveis de entrada.<br>
   Na segunda camada (única camada escondida) temos 16 neurônios.<br>
   Na terceira e última camada temos 1 neurônio de saída.<br>
